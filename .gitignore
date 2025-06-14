@@ -1,3 +1,5 @@
+/playerdata
+/playerdata/**
 
-./playerdata
-./advancements
+/advancements
+/advancements/**
